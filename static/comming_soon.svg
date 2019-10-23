@@ -1,0 +1,15 @@
+
+<svg width="111px" height="112px" viewBox="0 0 111 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="00_coming-soon" transform="translate(-249.000000, 0.000000)">
+      <g id="Group-2" transform="translate(318.317280, 49.317280) rotate(45.000000) translate(-318.317280, -49.317280) translate(234.817280, 34.817280)">
+        <g id="Oval-2-Copy-12" transform="translate(-0.000000, -0.000000)" fill="#FFFFFF">
+          <polygon id="Mask" points="0.5 -3.41060513e-13 166.5 -3.41060513e-13 166.5 29 0.5 29"></polygon>
+        </g>
+        <text id="coming-soon" font-family="Rubik-Medium, Rubik" font-size="12" font-weight="400" letter-spacing="1.30999994" fill="#000000">
+          <tspan x="34.1849801" y="19.5979797">COMING SOON</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

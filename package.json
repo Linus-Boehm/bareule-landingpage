@@ -1,0 +1,48 @@
+{
+  "name": "bareule-landingpage",
+  "version": "1.0.0",
+  "description": "My grand Nuxt.js project",
+  "author": "Linus Boehm",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.2",
+    "@mdi/font": "^3.6.95",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/dotenv": "^1.3.0",
+    "autoprefixer": "^9.5.1",
+    "aws-amplify": "^1.1.22",
+    "aws-amplify-vue": "^0.2.7",
+    "buefy": "^0.7.6",
+    "bulma": "^0.7.4",
+    "cross-env": "^5.2.0",
+    "cssnano": "^4.1.10",
+    "lodash": "^4.17.11",
+    "node-sass": "^4.11.0",
+    "nodemon": "^1.18.9",
+    "nuxt": "^2.4.0",
+    "nuxt-client-init-module": "^0.1.4",
+    "nuxt-purgecss": "^0.2.1",
+    "postcss-loader": "^3.0.0",
+    "postcss-preset-env": "^6.6.0",
+    "postcss-url": "^8.0.0",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^7.1.0",
+    "simple-line-icons": "^2.4.1",
+    "tailwindcss": "^1.0",
+    "typeface-rubik": "^0.0.72",
+    "uuid": "^3.3.2",
+    "vee-validate": "^2.2.8",
+    "velocity-animate": "^1.5.2",
+    "vue-notification": "^1.3.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
